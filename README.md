@@ -66,3 +66,8 @@ git show id-de-commit
 ```bash
 git remote set-url origin https://urlcompleta
 ```
+
+* Para actulizar el GitHub
+```bash
+git push origin main
+```
