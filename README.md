@@ -41,14 +41,16 @@ git add .
 
 ```bash
 git commit -m "comentario"
+```
 
 * Poder ver historial de commits
 
 [x]. Git log retorna un `id` con este id vamos a poder ver el detalle de los cambios que se hicieron en ese commit
 
 ```bash
-git los
+git log
 ```
+
 * Para poder el detalle del commit usamos 
 
 ```bash
