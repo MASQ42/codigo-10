@@ -56,3 +56,13 @@ git log
 ```bash
 git show id-de-commit
 ```
+ * Para ver donde esta vinculado el proyecto
+
+ ```bash
+ git remote -v
+```
+
+* Para cambiar la URL 
+```bash
+git remote set-url origin https://urlcompleta
+```
